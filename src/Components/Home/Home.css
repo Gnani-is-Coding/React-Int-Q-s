@@ -1,0 +1,14 @@
+.home-container {
+    padding: 20px;
+    height: 100vh;
+    background-color: aqua;
+}
+.home-heading {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:hwb(from color h w b);
+}
+.list-item {
+    font-weight: bold;
+    text-decoration: none;
+    font-size: large;
+}
